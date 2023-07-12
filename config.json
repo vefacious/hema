@@ -1,0 +1,14 @@
+{
+    "DEFAULTS": {
+        "AUTHORS": [],
+        "ACTIVITY_TEXT": "batnet Voice System",
+        "GUILD_ID": "1098190536860520448",
+        "VOICE_CHANNEL": "1107755275571691670",
+        "MIN_STAFF_ROLE": "1098191263997632583"
+    },
+    "FILES": {
+        "WELCOME": "default_files/1.mp3",
+        "STAFF": "default_files/2.mp3"
+    },
+    "TOKEN": "MTEyODM4NDMwMTAwNDc1MDk0OA.GjQPQf.hfYCAJYxMPswT0cmeAZnWXVpBPiA1qVlgLLYbk"
+}
